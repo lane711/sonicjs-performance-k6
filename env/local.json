@@ -1,0 +1,15 @@
+{
+    "authorization": {
+        "token": ""
+    },
+    "template": {
+        "baseUrl": "https://test-api.k6.io",
+        "password": "fakepassword"
+    },
+    "strapi": {
+        "baseUrl": "https://localhost:5555"
+    },
+    "sonicjs": {
+        "baseUrl": "https://localhost:1234"
+    }
+}
