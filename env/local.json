@@ -7,9 +7,9 @@
         "password": "fakepassword"
     },
     "strapi": {
-        "baseUrl": "https://localhost:5555"
+        "baseUrl": "http://localhost:1337"
     },
     "sonicjs": {
-        "baseUrl": "https://localhost:1234"
+        "baseUrl": "http://localhost:1234"
     }
 }

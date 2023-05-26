@@ -1,0 +1,11 @@
+{
+    "authorization": {
+        "token": ""
+    },
+    "strapi": {
+        "baseUrl": "http://35.180.25.251:1337"
+    },
+    "sonicjs": {
+        "baseUrl": "https://0def9f58.hono-pages2.pages.dev"
+    }
+}
